@@ -1,4 +1,4 @@
-# BlackJack Vite
+# BlackJack Vite JAC
 
 Pasos para ejecutar proyecto:
 
